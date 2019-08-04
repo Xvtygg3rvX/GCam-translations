@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hdr_processing">No es posible cambiar de lente. Se esta procesando un foto. Prueba mas tarde.</string>
-    <string name="three_cameras">No es posible cambiar de lente. El sistema no soporta la camara trasera auxiliar.</string>
-    <string name="pref_auxbackcamera_title">Cambiar a la segunda camara auxiliar</string>
-    <string name="exposure_title">Compensacion de la exposicion</string>
-    <string name="sat_title">Saturacion</string>
+    <string name="hdr_processing">No es posible cambiar de lente. Se está procesando un foto. Prueba mas tarde.</string>
+    <string name="three_cameras">No es posible cambiar de lente. El sistema no soporta la cámara trasera auxiliar.</string>
+    <string name="pref_auxbackcamera_title">Cambiar a la segunda cámara auxiliar</string>
+    <string name="exposure_title">Compensación de exposición</string>
+    <string name="sat_title">Saturación</string>
     <string name="sat_low">Baja (predeterminado de GCam)</string>
     <string name="sat_med">Media</string>
     <string name="sat_high">Alta</string>
-    <string name="pref_screen_manual_focus_title">Camara auxiliar</string>
+    <string name="pref_screen_manual_focus_title">Cámara auxiliar</string>
     <string name="pref_checkbox_mf_enabled_auto">Principal</string>
     <string name="pref_checkbox_mf_enabled_macro">Telefoto</string>
     <string name="pref_checkbox_mf_enabled_portrait">Gran Angular</string>
@@ -21,7 +21,7 @@
     <string name="pref_darkmode_on">Oscuro</string>
     <string name="pref_darkmode_off">Claro</string>
     <string name="pref_bitrate_title">Tasa de bits</string>
-    <string name="pref_bitrate_1">Automatica</string>
+    <string name="pref_bitrate_1">Automática</string>
     <string name="pref_qjpg_title">Calidad final del JPEG</string>
     <string name="pref_qjpg_90">Baja - 90%</string>
     <string name="pref_qjpg_95">Media - 95%</string>
