@@ -30,4 +30,27 @@
     <string name="pref_frames_8">Bajo - 8 fotogramas</string>
     <string name="pref_frames_15">Medio - 15 fotogramas</string>
     <string name="pref_frames_25">Alto - 25 fotogramas</string>
+    <string name="pref_manual_option_title">Opciones manuales</string>
+    <string name="pref_manual_mode_title">Modo manual</string>
+    <string name="pref_manual_mode_summary">Activar modo manual</string>
+    <string name="pref_shutter_title">Control manual de exposición</string>
+    <string name="pref_shutter_summary">Slider de velocidad de obturación</string>
+    <string name="pref_iso_title">Control manual de ISO</string>
+    <string name="pref_iso_summary">Slider de sensibilidad (EXPERIMENTAL)</string>
+    <string name="pref_black_white_title">Monocromo</string>
+    <string name="pref_black_white_summary">Si está habilitado las fotos serán en blanco y negro</string>
+    <string name="pref_ehn_awb_title">Pixel AWB en HDR+ Mejorado</string>
+    <string name="pref_screen_manual_focus_summary">Activar segunda y tercera lente</string>
+    <string name="pref_max_tripod_title">Incrementar tiempo de captura en trípode</string>
+    <string name="pref_max_tripod_summary">Incrementa los frames y tiempo de exposición si está estabilizado</string>
+    <string name="libPicker_title">Librerías personalizadas</string>
+    <string name="pref_version">Información</string>
+    <string name="pref_author">GCam 6.2.030 por Urnyx05</string>
+    <string name="pref_base">Basado en la Cámara de Google</string>
+    <string name="pref_version_number">Versión: 2.3</string>
+    <string name="pref_credit">Está versión ha sido creada por los siguientes desarrolladores</string>
+    <string name="pref_check_version">Comprobar versión</string>
+    <string name="pref_update">Buscar actualizaciones y cambios</string>
+    <string name="pref_maxbright_title">Brillo máximo de pantalla</string>
+    <string name="pref_maxbright_summary">Aumenta el brillo de pantalla al máximo para mejorar la visibilidad</string>
 </resources>
